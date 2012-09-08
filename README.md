@@ -7,13 +7,7 @@ A small Flask extension that makes it easy to use Jade to Underscore templates c
 
 ### Install with PIP
 
-    pip install -e git+git@github.com:weapp/flask-jade2underscore.git#egg=flask-jade2underscore
-
-
-### Install with setup.py
-
-    git clone https://github.com/weapp/flask-jade2underscore.git
-    python setup.py install
+    pip install flask-jade2underscore
 
 
 ## Usage
